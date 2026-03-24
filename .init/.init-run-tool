@@ -1,0 +1,4 @@
+{
+    "command": "npm run dev -- -p <port> -H <host>",
+    "working_directory": "/tmp/kavia/workspace/code-generation/unified-task-planner-243915-243931/nextjs_frontend"
+}
